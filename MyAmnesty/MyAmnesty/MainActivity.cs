@@ -4,10 +4,9 @@ using Android.OS;
 
 namespace MyAmnesty
 {
-	[Activity (Label = "MyAmnesty", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity ()]
 	public class MainActivity : Activity
 	{
-		int count = 1;
 
 		protected override void OnCreate (Bundle savedInstanceState)
 		{

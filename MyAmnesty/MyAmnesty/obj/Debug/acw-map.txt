@@ -2,6 +2,10 @@ MyAmnesty.MainActivity, MyAmnesty;md538f1d1cfd611c6afce6d27807ba61903.MainActivi
 MyAmnesty.MainActivity, MyAmnesty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md538f1d1cfd611c6afce6d27807ba61903.MainActivity
 MyAmnesty.MainActivity;md538f1d1cfd611c6afce6d27807ba61903.MainActivity
 myamnesty.MainActivity;md538f1d1cfd611c6afce6d27807ba61903.MainActivity
+MyAmnesty.SplashActivity, MyAmnesty;md538f1d1cfd611c6afce6d27807ba61903.SplashActivity
+MyAmnesty.SplashActivity, MyAmnesty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md538f1d1cfd611c6afce6d27807ba61903.SplashActivity
+MyAmnesty.SplashActivity;md538f1d1cfd611c6afce6d27807ba61903.SplashActivity
+myamnesty.SplashActivity;md538f1d1cfd611c6afce6d27807ba61903.SplashActivity
 Xamarin.InsightsCore.BackgroundManager, Xamarin.Insights;md55aa83cb61847c4249bb0dd44fd0a56e6.BackgroundManager
 Xamarin.InsightsCore.BackgroundManager, Xamarin.Insights, Version=1.10.0.0, Culture=neutral, PublicKeyToken=null;md55aa83cb61847c4249bb0dd44fd0a56e6.BackgroundManager
 Xamarin.InsightsCore.BackgroundManager;md55aa83cb61847c4249bb0dd44fd0a56e6.BackgroundManager
