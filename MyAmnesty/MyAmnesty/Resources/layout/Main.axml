@@ -3,5 +3,76 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:minWidth="25px"
-    android:minHeight="25px" />
+    android:background="#F2E500">
+    <TextView
+        android:text="Selecteer een bedrag*:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="65.5dp"
+        android:id="@+id/textView1"
+        android:textColor="#ffffffff"
+        android:textSize="60px"
+        android:textStyle="bold"
+        android:paddingLeft="20px"
+        android:layout_marginTop="30px" />
+    <Button
+        android:text="€10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button10"
+        android:textColor="#ffffffff"
+        android:background="#ff000000" />
+    <Button
+        android:text="€20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button20"
+        android:background="#ff000000"
+        android:layout_marginTop="10px" />
+    <Button
+        android:text="€30"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button30"
+        android:layout_marginTop="10px"
+        android:background="#ff000000" />
+    <Button
+        android:text="€40"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button40"
+        android:background="#ff000000"
+        android:layout_marginTop="10px" />
+    <Button
+        android:text="€50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button50"
+        android:layout_marginTop="10px"
+        android:background="#ff000000" />
+    <Button
+        android:text="€100"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button100"
+        android:background="#ff000000"
+        android:layout_marginTop="10px" />
+    <Button
+        android:text="Kies bedrag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonAnder"
+        android:layout_marginTop="10px"
+        android:background="#ff000000" />
+    <TextView
+        android:text="* Dit bedrag zal u maandelijks bijdragen."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:paddingLeft="20px"
+        android:textColor="#ffffffff"
+        android:textStyle="bold"
+        android:textSize="40px"
+        android:layout_marginTop="10px" />
+</LinearLayout>

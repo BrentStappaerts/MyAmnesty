@@ -57,6 +57,46 @@ namespace MyAmnesty
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f070001
+			public const int button10 = 2131165185;
+			
+			// aapt resource value: 0x7f070006
+			public const int button100 = 2131165190;
+			
+			// aapt resource value: 0x7f070002
+			public const int button20 = 2131165186;
+			
+			// aapt resource value: 0x7f070003
+			public const int button30 = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int button40 = 2131165188;
+			
+			// aapt resource value: 0x7f070005
+			public const int button50 = 2131165189;
+			
+			// aapt resource value: 0x7f070007
+			public const int buttonAnder = 2131165191;
+			
+			// aapt resource value: 0x7f070000
+			public const int textView1 = 2131165184;
+			
+			// aapt resource value: 0x7f070008
+			public const int textView2 = 2131165192;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
