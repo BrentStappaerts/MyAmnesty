@@ -19,3 +19,4 @@ C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\R.cs.flag
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\uploadflags.txt
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\values\styles.xml
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\drawable\splash.png
+C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\layout\formulier.xml
