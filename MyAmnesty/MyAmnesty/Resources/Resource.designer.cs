@@ -90,6 +90,9 @@ namespace MyAmnesty
 			// aapt resource value: 0x7f070005
 			public const int editTextAdres = 2131165189;
 			
+			// aapt resource value: 0x7f070018
+			public const int editTextBedanktWie = 2131165208;
+			
 			// aapt resource value: 0x7f070008
 			public const int editTextEmail = 2131165192;
 			
@@ -129,6 +132,9 @@ namespace MyAmnesty
 			// aapt resource value: 0x7f070009
 			public const int textView7 = 2131165193;
 			
+			// aapt resource value: 0x7f070017
+			public const int textViewBedankt = 2131165207;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -147,6 +153,9 @@ namespace MyAmnesty
 			
 			// aapt resource value: 0x7f040001
 			public const int Main = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int Overzicht = 2130968578;
 			
 			static Layout()
 			{

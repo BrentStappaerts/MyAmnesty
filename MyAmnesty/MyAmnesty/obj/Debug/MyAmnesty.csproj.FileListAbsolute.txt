@@ -20,3 +20,4 @@ C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\uploadflags.t
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\values\styles.xml
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\drawable\splash.png
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\layout\formulier.xml
+C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\res\layout\overzicht.xml

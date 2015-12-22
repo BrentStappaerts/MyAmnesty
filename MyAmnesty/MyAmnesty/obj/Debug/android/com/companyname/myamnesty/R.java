@@ -24,6 +24,7 @@ public final class R {
         public static final int buttonDoneer=0x7f07000e;
         public static final int editTextAchternaam=0x7f070003;
         public static final int editTextAdres=0x7f070005;
+        public static final int editTextBedanktWie=0x7f070018;
         public static final int editTextEmail=0x7f070008;
         public static final int editTextGemeente=0x7f070006;
         public static final int editTextNummer=0x7f07000a;
@@ -37,10 +38,12 @@ public final class R {
         public static final int textView5=0x7f070007;
         public static final int textView6=0x7f07000b;
         public static final int textView7=0x7f070009;
+        public static final int textViewBedankt=0x7f070017;
     }
     public static final class layout {
         public static final int formulier=0x7f040000;
         public static final int main=0x7f040001;
+        public static final int overzicht=0x7f040002;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;

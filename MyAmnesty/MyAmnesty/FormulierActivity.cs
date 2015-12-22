@@ -39,7 +39,11 @@ namespace MyAmnesty
 
 					if(editTextRekening.Text.Length == 16){
 						if(editTextEmail.Text ==  "@"){
-							StartActivity(typeof(MainActivity));
+							buttonDoneer.Click += delegate {
+								var OverzichtActivity = new Intent (this, typeof(OverzichtActivity));
+								OverzichtActivity.PutExtra ("MyData", editTextVoornaam.Text + " " + editTextAchternaam.Text );
+								StartActivity (OverzichtActivity);
+							};
 						}
 						else{
 							editTextValidatie.Text = "Email niet correct.";
@@ -54,6 +58,8 @@ namespace MyAmnesty
 				}
 			
 			};
+
+		
 		
 		}
 	}
