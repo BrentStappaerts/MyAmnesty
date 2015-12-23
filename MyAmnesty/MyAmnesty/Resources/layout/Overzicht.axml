@@ -7,11 +7,11 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <TextView
-        android:text="Bedankt"
+        android:text="Gegevens:"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textViewBedankt"
+        android:id="@+id/textViewOverzicht"
         android:textSize="35px"
         android:textStyle="bold"
         android:textColor="#ff000000"
@@ -23,7 +23,34 @@
         android:id="@+id/editTextBedanktWie"
         android:textSize="35px"
         android:textStyle="bold"
-        android:textColor="#ff000000"
+        android:textColor="#ffffffff"
         android:layout_marginLeft="10px"
         android:layout_marginTop="10px" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextOutputEmail"
+        android:textSize="35px"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="10px"
+        android:layout_marginTop="10px" />
+    <TextView
+        android:text="Bedankt voor uw donatie.                                      U krijgt binnen de 12uur een bevestigingsmail van deze maandelijkse donatie aan Amnesty International."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:textSize="35px"
+        android:textStyle="bold"
+        android:textColor="#ff000000"
+        android:layout_marginLeft="10px"
+        android:layout_marginTop="50px" />
+    <Button
+        android:text="NIEUWE DONATIE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonDonatie"
+        android:background="#ff000000"
+        android:layout_marginTop="150px" />
 </LinearLayout>

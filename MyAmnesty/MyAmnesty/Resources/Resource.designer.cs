@@ -61,28 +61,13 @@ namespace MyAmnesty
 		{
 			
 			// aapt resource value: 0x7f070015
-			public const int button100 = 2131165205;
-			
-			// aapt resource value: 0x7f070010
-			public const int button10euro = 2131165200;
-			
-			// aapt resource value: 0x7f070011
-			public const int button20 = 2131165201;
-			
-			// aapt resource value: 0x7f070012
-			public const int button30 = 2131165202;
-			
-			// aapt resource value: 0x7f070013
-			public const int button40 = 2131165203;
-			
-			// aapt resource value: 0x7f070014
-			public const int button50 = 2131165204;
-			
-			// aapt resource value: 0x7f070016
-			public const int buttonAnder = 2131165206;
+			public const int buttonDonatie = 2131165205;
 			
 			// aapt resource value: 0x7f07000e
 			public const int buttonDoneer = 2131165198;
+			
+			// aapt resource value: 0x7f070011
+			public const int buttonVerder = 2131165201;
 			
 			// aapt resource value: 0x7f070003
 			public const int editTextAchternaam = 2131165187;
@@ -90,8 +75,11 @@ namespace MyAmnesty
 			// aapt resource value: 0x7f070005
 			public const int editTextAdres = 2131165189;
 			
-			// aapt resource value: 0x7f070018
-			public const int editTextBedanktWie = 2131165208;
+			// aapt resource value: 0x7f070013
+			public const int editTextBedanktWie = 2131165203;
+			
+			// aapt resource value: 0x7f070010
+			public const int editTextBedrag = 2131165200;
 			
 			// aapt resource value: 0x7f070008
 			public const int editTextEmail = 2131165192;
@@ -101,6 +89,9 @@ namespace MyAmnesty
 			
 			// aapt resource value: 0x7f07000a
 			public const int editTextNummer = 2131165194;
+			
+			// aapt resource value: 0x7f070014
+			public const int editTextOutputEmail = 2131165204;
 			
 			// aapt resource value: 0x7f07000c
 			public const int editTextRekening = 2131165196;
@@ -132,8 +123,8 @@ namespace MyAmnesty
 			// aapt resource value: 0x7f070009
 			public const int textView7 = 2131165193;
 			
-			// aapt resource value: 0x7f070017
-			public const int textViewBedankt = 2131165207;
+			// aapt resource value: 0x7f070012
+			public const int textViewOverzicht = 2131165202;
 			
 			static Id()
 			{

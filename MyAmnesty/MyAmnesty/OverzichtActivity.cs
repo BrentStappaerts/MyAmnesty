@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace MyAmnesty
 {
-	[Activity (Label = "OverzichtActivity")]			
+	[Activity ()]			
 	public class OverzichtActivity : Activity
 	{
 		protected override void OnCreate (Bundle savedInstanceState)
@@ -25,9 +25,18 @@ namespace MyAmnesty
 			// Create your application here
 			var editTextVoornaam = FindViewById<EditText> (Resource.Id.editTextVoornaam);
 			var editTextBedanktWie = FindViewById<EditText> (Resource.Id.editTextBedanktWie);
-
-			editTextBedanktWie.Text = Intent.GetStringExtra ("MyData") ?? "Data not available";
+			var editTextOutputEmail = FindViewById<EditText> (Resource.Id.editTextOutputEmail);
 	
+			editTextBedanktWie.Text = Intent.GetStringExtra ("Naam") ?? "Data not available";
+			editTextOutputEmail.Text = Intent.GetStringExtra ("Email") ?? "Data not available";
+			Button buttonDonatie = FindViewById<Button> (Resource.Id.buttonDonatie);
+
+			Button buttonVerder = FindViewById<Button> (Resource.Id.buttonVerder);
+
+			buttonDonatie.Click += delegate {
+
+				StartActivity(typeof(MainActivity));
+			};
 		}
 	}
 }

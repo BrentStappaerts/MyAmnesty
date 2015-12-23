@@ -13,7 +13,7 @@
       </intent-filter>
     </activity>
     <activity android:label="FormulierActivity" android:name="md538f1d1cfd611c6afce6d27807ba61903.FormulierActivity" />
-    <activity android:label="OverzichtActivity" android:name="md538f1d1cfd611c6afce6d27807ba61903.OverzichtActivity" />
+    <activity android:name="md538f1d1cfd611c6afce6d27807ba61903.OverzichtActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.myamnesty.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

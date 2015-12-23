@@ -18,9 +18,10 @@ namespace MyAmnesty
 			// Get our button from the layout resource,
 			// and attach an event to it
 
-			Button button10euro = FindViewById<Button> (Resource.Id.button10euro);
+			Button buttonVerder = FindViewById<Button> (Resource.Id.buttonVerder);
 
-			button10euro.Click += delegate {
+			buttonVerder.Click += delegate {
+
 				StartActivity(typeof(FormulierActivity));
 			};
 
