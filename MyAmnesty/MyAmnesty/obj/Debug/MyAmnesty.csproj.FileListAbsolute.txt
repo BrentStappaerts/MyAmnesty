@@ -1,10 +1,7 @@
-C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\MyAmnesty.csprojResolveAssemblyReference.cache
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\MyAmnesty.dll
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\MyAmnesty.pdb
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\com.companyname.myamnesty.apk
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\com.companyname.myamnesty-Signed.apk
-C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\Xamarin.Insights.dll
-C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\bin\Debug\Xamarin.Insights.xml
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\MyAmnesty.dll
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\MyAmnesty.pdb
 C:\Users\Brentje\Documents\MyAmnesty\MyAmnesty\MyAmnesty\obj\Debug\android\bin\com.companyname.myamnesty.apk

@@ -14,19 +14,20 @@ public final class R {
         public static final int splash=0x7f020000;
     }
     public static final class id {
-        public static final int buttonDonatie=0x7f070015;
+        public static final int buttonDonatie=0x7f070016;
         public static final int buttonDoneer=0x7f07000e;
         public static final int buttonVerder=0x7f070011;
         public static final int editTextAchternaam=0x7f070003;
         public static final int editTextAdres=0x7f070005;
-        public static final int editTextBedanktWie=0x7f070013;
+        public static final int editTextBedanktWie=0x7f070014;
         public static final int editTextBedrag=0x7f070010;
         public static final int editTextEmail=0x7f070008;
         public static final int editTextGemeente=0x7f070006;
         public static final int editTextNummer=0x7f07000a;
-        public static final int editTextOutputEmail=0x7f070014;
+        public static final int editTextOutputEmail=0x7f070015;
         public static final int editTextRekening=0x7f07000c;
         public static final int editTextValidatie=0x7f07000d;
+        public static final int editTextValidatieBedrag=0x7f070012;
         public static final int editTextVoornaam=0x7f070001;
         public static final int textView1=0x7f07000f;
         public static final int textView2=0x7f070000;
@@ -35,7 +36,7 @@ public final class R {
         public static final int textView5=0x7f070007;
         public static final int textView6=0x7f07000b;
         public static final int textView7=0x7f070009;
-        public static final int textViewOverzicht=0x7f070012;
+        public static final int textViewOverzicht=0x7f070013;
     }
     public static final class layout {
         public static final int formulier=0x7f040000;
